@@ -1,0 +1,14 @@
+1. definition, features of python, used of python, installation of python.......
+2. projects of python....
+3. modules and pip in python:
+    Module is like a code library whcich was written and tested by others but can be used in our program
+    a. Built in module: such modules which are already at there along with installation of python i.e. no needs of install explicitly
+    b. External modules: this module have to install using package manager. we've to install differnt version of same module with time
+
+#pip command
+pip is used to install python module
+eg. pip install pandas
+pip3 install scikit-learn 
+
+
+
