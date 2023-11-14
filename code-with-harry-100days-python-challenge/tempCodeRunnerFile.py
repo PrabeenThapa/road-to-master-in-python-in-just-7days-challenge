@@ -1,1 +1,2 @@
-1
+def double(x):
+#     returnx*2
