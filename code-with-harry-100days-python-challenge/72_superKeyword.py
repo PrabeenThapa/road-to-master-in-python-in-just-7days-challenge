@@ -6,6 +6,10 @@ class Parentclass:
         print("This is in parent")
 
 class childclass:
+    def parentMethod(self):
+        print("HAri")
+        super().parentMethod()
+
     def childMethod(self):
         print("This is in child")
 
